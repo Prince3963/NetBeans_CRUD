@@ -1,0 +1,6 @@
+com\mycompany\netbeans_crud\resources\JakartaEE8Resource.class
+comModel\AbstractFacade.class
+com\mycompany\netbeans_crud\JakartaRestConfiguration.class
+com\Controller\Login.class
+comModel\GitTblFacade.class
+com\Entity\GitTbl.class
